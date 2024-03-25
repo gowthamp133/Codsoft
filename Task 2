@@ -1,4 +1,4 @@
-student grade calculator 
+student grade calculator
 
 import java.util.Scanner;
 public class Main
