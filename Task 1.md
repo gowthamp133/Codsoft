@@ -1,5 +1,5 @@
 # Codsoft
-Random number guessing code in java
+Number game
 import java.util.*;
 public class Main {
 	public static void main(String[] args) {
